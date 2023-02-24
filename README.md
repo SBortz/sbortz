@@ -1,3 +1,5 @@
+theme: THEME-NAME
+
 ### Hi there 👋
 
 <!--
