@@ -1,27 +1,25 @@
 # Welcome to My GitHub Profile 👋
 
-Hello! I am Sebastian Bortz, a passionate developer specializing in Event Modeling. I am dedicated to showcasing innovative implementations and practical examples of Event Modeling patterns.
+Hello! I am Sebastian Bortz, a passionate developer specializing in Event Modeling. I am dedicated to showcasing innovative implementations and practical examples of Event Modeling patterns. I also have a high interest in Software Architecture patterns. In my repo I´d see a place to learn and research about it.
 
 ## Skills 🛠️
 
-- Event Modeling
-- C#, .NET Web Api, MVC,
-- Angular, Tailwind CSS
-- Entity Framework
-- MS-SQL
+- Event Modeling, Event Sourcing.
+- Domain Driven Design, Vertical Slice Architecture, Clean Architecture
+- C#, .NET Web Api, Angular, Tailwind CSS, Entity Framework, MS-SQL
 
 ## Projects 📂
 
-### Event Modeling Patterns (Coming soon)
-- **Command:**  
-- **State View:**
-- **Automation:**
-- **Translation:**
+### Event Modeling Patterns
+- **Command:**  (Coming Soon)
+- **State View:**  (Coming Soon)
+- **Automation:**  (Coming Soon)
+- **Translation:** (Coming Soon)
 
 ### Example Application
 - **Some example project:** (Coming Soon)
 
-## Blog Posts 📝
+## My Blog Posts 📝
 
 - [Event Modeling Cheatsheet](https://eventmodeling.org/posts/event-modeling-cheatsheet/)
 - [Using Event Modeling Without Event Sourcing](https://medium.com/@sebastianbortz/using-eventmodeling-without-eventsourcing-f09b3cfaba00)
