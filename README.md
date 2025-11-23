@@ -1,33 +1,54 @@
-# Welcome to My GitHub Profile 👋
+# 👋 Hi, I'm Sebastian Bortz
 
-Hello! I am Sebastian Bortz, a passionate developer specializing in Event Modeling. I am dedicated to showcasing innovative implementations and practical examples of Event Modeling patterns. I also have a high interest in Software Architecture patterns. In my repo I´d see a place to learn and research about it.
+<div align="center">
 
-## Skills 🛠️
+**Senior Fullstack Engineer | Event Modeling Enthusiast**
 
-- Event Modeling, Event Sourcing.
-- Domain Driven Design, Vertical Slice Architecture, Clean Architecture
-- C#, .NET Web Api, Angular, Tailwind CSS, Entity Framework, MS-SQL
+*Building systems that tell stories through events*
 
-## Projects 📂
+[![Twitter](https://img.shields.io/badge/Twitter-@SebastianBortz-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@SebastianBortz)
+[![GitHub](https://img.shields.io/badge/GitHub-SBortz-181717?style=flat&logo=github&logoColor=white)](https://github.com/SBortz)
 
-### Event Modeling Patterns
-- **Command:**  (Coming Soon)
-- **State View:**  (Coming Soon)
-- **Automation:**  (Coming Soon)
-- **Translation:** (Coming Soon)
+</div>
 
-### Example Application
-- **Some example project:** (Coming Soon)
+---
 
-## My Blog Posts 📝
+## Über mich
 
-- [Event Modeling Cheatsheet](https://eventmodeling.org/posts/event-modeling-cheatsheet/)
-- [Using Event Modeling Without Event Sourcing](https://medium.com/@sebastianbortz/using-eventmodeling-without-eventsourcing-f09b3cfaba00)
+Ich bin **Sebastian Bortz**, Senior Fullstack Engineer mit 12+ Jahren Erfahrung im Aufbau von Enterprise-Anwendungen. Ich fokussiere mich auf nachhaltige Software-Architekturen und wende kollaborative Modellierungsmethoden wie **Event Modeling** an, um komplexe Systeme durch Events verständlich zu machen.
 
-## About Me 🙋‍♂️
+**Skills:** C# / .NET (18+ Jahre) • Angular 20 • TypeScript • Event Modeling • Event Sourcing • CQRS • Domain-Driven Design • Vertical Slice Architecture • Clean Architecture • MS SQL • Azure • Entity Framework
 
-I am a developer with a keen interest in Event Modeling. My goal is to showcase the implementation of the four Event Modeling patterns—Command, State View, Automation and Translation and build applications that exemplify these patterns.
+---
 
-## Contact 📬
+## 📂 Projekte
 
-- Twitter: [@SebastianBortz](https://twitter.com/@SebastianBortz)
+### 🗄️ Worlds Simplest Db
+
+**[Worlds Simplest Db](https://github.com/SBortz/worlds-simplest-db)** – Log-basierter Key-Value Store in C#, entwickelt für Bildungszwecke. Implementiert in inkrementellen Stufen: 1. Text-basiert, 2. Binär, 3. Indiziert, 4. LSM-tree/SSTable. Ein Projekt, das zeigt, wie Datenbanksysteme von Grund auf funktionieren.
+
+### 📚 Event Sourcing Sample
+
+**Event Sourcing Sample** *(GitHub)* – Vollständige Backend-Implementierung basierend auf dem Buch "Understanding Eventsourcing" von Martin Dilger. Praktisches Beispiel für Event Sourcing in .NET.
+
+### 🚂 Abfahrtsmonitor.ch
+
+**[Abfahrtsmonitor.ch](https://abfahrtsmonitor.ch)** – Live-Abfahrtsmonitor für Haltestellen und Bahnhöfe in der Schweiz, ähnlich den großen Abfahrtstafeln an Bahnhöfen. Real-World Anwendung mit Event-basierter Architektur.
+
+---
+
+## 📝 Blog Posts
+
+### 📄 [Event Modeling Cheatsheet](https://eventmodeling.org/posts/event-modeling-cheatsheet/)
+Eine kompakte Referenz für Event Modeling Konzepte.
+
+### 📄 [Using Event Modeling Without Event Sourcing](https://medium.com/@sebastianbortz/using-eventmodeling-without-eventsourcing-f09b3cfaba00)
+Wie Event Modeling auch ohne Event Sourcing wertvoll sein kann.
+
+---
+
+<div align="center">
+
+**"The best way to predict the future is to model it with events."**
+
+</div>
