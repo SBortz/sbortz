@@ -2,50 +2,42 @@
 
 <div align="center">
 
-**Senior Fullstack Engineer | Event Modeling Enthusiast**
+**Senior Fullstack Engineer (C# / .NET / Angular) | 12+ years of experience**
 
-*Building systems that tell stories through events*
+*Focused on sustainable software architectures and collaborative modeling methods*
 
 </div>
 
 ---
 
-## Über mich
+## About me
 
-Ich bin **Sebastian Bortz**, Senior Fullstack Engineer mit 12+ Jahren Erfahrung im Aufbau von Enterprise-Anwendungen. Ich fokussiere mich auf nachhaltige Software-Architekturen und wende kollaborative Modellierungsmethoden wie **Event Modeling** an, um komplexe Systeme durch Events verständlich zu machen.
+I'm **Sebastian Bortz**, a Senior Fullstack Engineer with 12+ years of experience building enterprise applications. I focus on sustainable software architectures and apply collaborative modeling methods like **Event Modeling** to make complex systems understandable through events.
 
-**Skills:** C# / .NET (18+ Jahre) • Angular 20 • TypeScript • Event Modeling • Event Sourcing • CQRS • Domain-Driven Design • Vertical Slice Architecture • Clean Architecture • MS SQL • Azure • Entity Framework
+**Skills:** C# / .NET (18+ years) • Angular 20 • TypeScript • Event Modeling • Event Sourcing • CQRS • Domain-Driven Design • Vertical Slice Architecture • Clean Architecture • MS SQL • Azure • Entity Framework
 
 ---
 
-## 📂 Projekte
+## 📂 Projects
 
 ### 🗄️ Worlds Simplest Db
 
-**[Worlds Simplest Db](https://github.com/SBortz/worlds-simplest-db)** – Log-basierter Key-Value Store in C#, entwickelt für Bildungszwecke. Implementiert in inkrementellen Stufen: 1. Text-basiert, 2. Binär, 3. Indiziert, 4. LSM-tree/SSTable. 
+**[Worlds Simplest Db](https://github.com/SBortz/worlds-simplest-db)** – Log-based key-value store in C#, built for educational purposes. Implemented in incremental stages: 1. Text-based, 2. Binary, 3. Indexed, 4. LSM-tree/SSTable. 
 
 ### 📚 Event Sourcing Sample
 
-**Event Sourcing Sample** *(GitHub)* – Vollständige Backend-Implementierung basierend auf dem Buch "Understanding Eventsourcing" von Martin Dilger. Praktisches Beispiel für Event Sourcing in .NET.
+**Event Sourcing Sample** *(GitHub)* – Complete backend implementation based on the book "Understanding Eventsourcing" by Martin Dilger. Practical example of Event Sourcing in .NET.
 
 ### 🚂 Abfahrtsmonitor.ch
 
-**[Abfahrtsmonitor.ch](https://abfahrtsmonitor.ch)** – Live-Abfahrtsmonitor für Haltestellen und Bahnhöfe in der Schweiz, ähnlich den großen Abfahrtstafeln an Bahnhöfen. 
+**[Abfahrtsmonitor.ch](https://abfahrtsmonitor.ch)** – Live departure monitor for stops and stations in Switzerland, similar to the large departure boards at train stations. 
 
 ---
 
 ## 📝 Blog Posts
 
 ### 📄 [Event Modeling Cheatsheet](https://eventmodeling.org/posts/event-modeling-cheatsheet/)
-Eine kompakte Referenz für Event Modeling Konzepte.
 
 ### 📄 [Using Event Modeling Without Event Sourcing](https://medium.com/@sebastianbortz/using-eventmodeling-without-eventsourcing-f09b3cfaba00)
-Wie Event Modeling auch ohne Event Sourcing wertvoll sein kann.
 
 ---
-
-<div align="center">
-
-**"The best way to predict the future is to model it with events."**
-
-</div>
