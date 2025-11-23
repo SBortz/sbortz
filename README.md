@@ -6,9 +6,6 @@
 
 *Building systems that tell stories through events*
 
-[![Twitter](https://img.shields.io/badge/Twitter-@SebastianBortz-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@SebastianBortz)
-[![GitHub](https://img.shields.io/badge/GitHub-SBortz-181717?style=flat&logo=github&logoColor=white)](https://github.com/SBortz)
-
 </div>
 
 ---
@@ -25,7 +22,7 @@ Ich bin **Sebastian Bortz**, Senior Fullstack Engineer mit 12+ Jahren Erfahrung 
 
 ### 🗄️ Worlds Simplest Db
 
-**[Worlds Simplest Db](https://github.com/SBortz/worlds-simplest-db)** – Log-basierter Key-Value Store in C#, entwickelt für Bildungszwecke. Implementiert in inkrementellen Stufen: 1. Text-basiert, 2. Binär, 3. Indiziert, 4. LSM-tree/SSTable. Ein Projekt, das zeigt, wie Datenbanksysteme von Grund auf funktionieren.
+**[Worlds Simplest Db](https://github.com/SBortz/worlds-simplest-db)** – Log-basierter Key-Value Store in C#, entwickelt für Bildungszwecke. Implementiert in inkrementellen Stufen: 1. Text-basiert, 2. Binär, 3. Indiziert, 4. LSM-tree/SSTable. 
 
 ### 📚 Event Sourcing Sample
 
@@ -33,7 +30,7 @@ Ich bin **Sebastian Bortz**, Senior Fullstack Engineer mit 12+ Jahren Erfahrung 
 
 ### 🚂 Abfahrtsmonitor.ch
 
-**[Abfahrtsmonitor.ch](https://abfahrtsmonitor.ch)** – Live-Abfahrtsmonitor für Haltestellen und Bahnhöfe in der Schweiz, ähnlich den großen Abfahrtstafeln an Bahnhöfen. Real-World Anwendung mit Event-basierter Architektur.
+**[Abfahrtsmonitor.ch](https://abfahrtsmonitor.ch)** – Live-Abfahrtsmonitor für Haltestellen und Bahnhöfe in der Schweiz, ähnlich den großen Abfahrtstafeln an Bahnhöfen. 
 
 ---
 
