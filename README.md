@@ -1,18 +1,9 @@
+
 # 👋 Hi, I'm Sebastian Bortz
-
-<div align="center">
-
-**Senior Fullstack Engineer (C# / .NET / Angular) | 12+ years of experience**
-
-*Focused on sustainable software architectures and collaborative modeling methods*
-
-</div>
-
----
 
 ## About me
 
-I'm **Sebastian Bortz**, a Senior Fullstack Engineer with 12+ years of experience building enterprise applications. I focus on sustainable software architectures and apply collaborative modeling methods like **Event Modeling** to make complex systems understandable through events.
+I'm **Sebastian Bortz**, a Senior Fullstack Engineer. I focus on sustainable software architectures and apply collaborative modeling methods like **Event Modeling** to make complex systems understandable through events.
 
 **Skills:** C# / .NET (18+ years) • Angular 20 • TypeScript • Event Modeling • Event Sourcing • CQRS • Domain-Driven Design • Vertical Slice Architecture • Clean Architecture • MS SQL • Azure • Entity Framework
 
