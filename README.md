@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Sebastian Bortz
 
 ## About me
@@ -10,6 +9,14 @@ I'm **Sebastian Bortz**, a Senior Fullstack Engineer. I focus on sustainable sof
 ---
 
 ## 📂 Projects
+
+### 🦒 Giraflow
+
+**[Giraflow](https://giraflow.dev)** – Event Modeling as Code. A human-readable JSON format for designing event-driven systems, with interactive visualization including Timeline, Slice, and Table views. Export to PowerPoint, SVG, and draw.io.
+
+### 🗃️ Boundless
+
+**[Boundless](https://boundlessdb.dev)** – A DCB-inspired Event Store for TypeScript. Features config-based consistency keys, HMAC-signed tokens for conflict detection, and runs embedded with SQLite or in the browser via sql.js.
 
 ### 🗄️ Worlds Simplest Db
 
